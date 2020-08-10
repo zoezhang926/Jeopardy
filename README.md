@@ -1,0 +1,1 @@
+This is one of the portfolio exercise to demonstrate my competency in JS
